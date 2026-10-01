@@ -1,0 +1,19 @@
+{
+  "best_model": "xgb_class_weight",
+  "thresholds": {
+    "logreg_baseline": 0.05210019490234598,
+    "logreg_class_weight": 0.9999995043577586,
+    "logreg_smote": 0.9459571146117259,
+    "xgb_baseline": 0.3261870741844177,
+    "xgb_class_weight": 0.6936798691749573,
+    "xgb_smote": 0.7888321876525879
+  },
+  "val_pr_auc": {
+    "logreg_baseline": 0.6851657798477642,
+    "logreg_class_weight": 0.6970029894732384,
+    "logreg_smote": 0.6940387317266319,
+    "xgb_baseline": 0.8375671922624593,
+    "xgb_class_weight": 0.8536667020522551,
+    "xgb_smote": 0.8174235741024664
+  }
+}
