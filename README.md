@@ -158,21 +158,35 @@ The project includes an interactive Streamlit application providing:
 * Fraud probability predictions
 
 ### Dashboard
-<img width="1920" height="923" alt="dashboard-results png" src="https://github.com/user-attachments/assets/cac65d97-2fe6-426c-a2b2-a1f0135ad3db" />
+<img width="1920" height="942" alt="dashboard png" <img width="1920" height="942" alt="dashboard png" src="https://github.com/user-attachments/assets/94464958-8296-4322-a7ba-80fbbe0e8f74" />
+
+
 
 
 ### Precision-Recall Analysis
-<img width="1920" height="919" alt="threshold-tradeoff png" src="https://github.com/user-attachments/assets/d327c778-db38-4b77-baab-b3ec64116273" />
+<img width="1920" height="934" alt="precision-recall png" src="https://github.com/user-attachments/assets/d029cd64-e5a5-41d2-adfa-3e81632b5e05" />
+
+
+
+### Threshold Analysis
+<img width="1920" height="936" alt="threshold png" src="https://github.com/user-attachments/assets/61444745-e142-41ec-86df-5a2bb61f5cb0" />
+
+
+### Confusion Matrix
+<img width="1920" height="907" alt="confusion-matrix png" src="https://github.com/user-attachments/assets/6498f8ca-3ef6-49d5-b3f1-a7ceb11d2eef" />
 
 
 
 
 ### SHAP Explainability
-<img width="1920" height="934" alt="shap-summary png" src="https://github.com/user-attachments/assets/b5ea5720-ea66-4039-a0e4-d50de7200d05" />
+<img width="1920" height="923" alt="shap png" src="https://github.com/user-attachments/assets/4d9f4712-ba87-4ec6-aa80-8f9af67333bb" />
+
 
 
 ### Transaction Scoring
-<img width="1920" height="938" alt="transaction-scoring png" src="https://github.com/user-attachments/assets/af114570-3a28-4159-8c5c-5e5ff8efcbde" />
+<img width="1920" height="946" alt="transaction-scoring png" src="https://github.com/user-attachments/assets/b0a11ae2-7b2e-4ad8-b4ee-a9cab2a9890e" />
+
+
 
 
 
