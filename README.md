@@ -160,19 +160,19 @@ The project includes an interactive Streamlit application providing:
 ### Dashboard
 <img width="1920" height="923" alt="dashboard-results png" src="https://github.com/user-attachments/assets/cac65d97-2fe6-426c-a2b2-a1f0135ad3db" />
 
-![Dashboard](screenshots/dashboard.png)
 
-### Precision-Recall Analysis
+### Precision-Recall Analysis<img width="1920" height="919" alt="threshold-tradeoff png" src="https://github.com/user-attachments/assets/d327c778-db38-4b77-baab-b3ec64116273" />
 
-![Precision Recall](screenshots/precision-recall.png)
 
-### SHAP Explainability
 
-![SHAP](screenshots/shap.png)
 
-### Transaction Scoring
+### SHAP Explainability<img width="1920" height="934" alt="shap-summary png" src="https://github.com/user-attachments/assets/b5ea5720-ea66-4039-a0e4-d50de7200d05" />
 
-![Transaction Scoring](screenshots/transaction-scoring.png)
+
+### Transaction Scoring<img width="1920" height="938" alt="transaction-scoring png" src="https://github.com/user-attachments/assets/af114570-3a28-4159-8c5c-5e5ff8efcbde" />
+
+
+
 
 ## Project Structure
 
