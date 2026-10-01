@@ -158,6 +158,7 @@ The project includes an interactive Streamlit application providing:
 * Fraud probability predictions
 
 ### Dashboard
+<img width="1920" height="923" alt="dashboard-results png" src="https://github.com/user-attachments/assets/cac65d97-2fe6-426c-a2b2-a1f0135ad3db" />
 
 ![Dashboard](screenshots/dashboard.png)
 
